@@ -1,0 +1,56 @@
+---
+pricing:
+  enable: true
+  hide_on_mobile: false
+  title: The paths
+  pricing_table:
+  - name: "Aware \U0001F928"
+    price: 2 months
+    unit: "€800"
+    services:
+    - '"There is no spoon."'
+    - Expand consciousness
+    - "Integrate projections \U0001F93C"
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
+  - name: "Calm \U0001F60C"
+    price: 4 months
+    unit: "€1440"
+    services:
+    - "Improve grounding and sleep \U0001F634"
+    - Decrease anxiety & mental chatter
+    - Develop self-compassion
+    button:
+      label: More info
+      link: https://calendly.com/misterclarity/30min
+  - name: "Enlightened \U0001F970"
+    price: 6 months
+    unit: "€1920"
+    services:
+    - Integrate the ego
+    - "Develop a meditative state \U0001F9D8"
+    - Find your vision
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
+  - name: Healed ✨
+    services:
+    - Your pain = strength
+    - An exploration of the chironic wound
+    - "For the astrologically inclined \U0001F609"
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
+    unit: 2 Months
+    price: "€1000"
+  - name: "Valuable \U0001F4B6"
+    price: "€1000"
+    unit: 2 Months
+    services:
+    - '"Show me the money!"'
+    - An exploration of your natural talents
+    - For the astrologically inclined
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info

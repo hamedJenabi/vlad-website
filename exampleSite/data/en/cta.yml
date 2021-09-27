@@ -1,0 +1,13 @@
+---
+cta:
+  enable: true
+  bg_image: ''
+  bg_image_webp: ''
+  title: Growth follows acceptance.
+  content: Find out how I can help you listen to and accept yourself during a free
+    consultation.
+  button:
+    enable: true
+    label: Get in touch
+    link: https://calendly.com/misterclarity/30min
+  hide_on_mobile: false
